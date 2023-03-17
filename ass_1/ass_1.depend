@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670631073 source:c:\users\hanan\desktop\ass_1\main.cpp
+	<map>
+	<string>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
